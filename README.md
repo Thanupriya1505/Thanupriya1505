@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Thanu Priya👋
 
-<!--
-**Thanupriya1505/Thanupriya1505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 BCA Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Aspiring Data Analyst skilled in SQL, Excel, Power BI, Tableau, and Python
+
+📈 Passionate about transforming data into actionable insights
+
+🚀 Building real-world projects using SQL, Excel, Power BI, and Tableau
+
+## Skills
+
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Python
+
+## Projects
+
+- Airline Service performance Analysis
+- Financial Sales Analysis
+- Healthcare Analysis
+- Zomato Data Analysis
+
+## Let's Connect
+
+📧 thanupriya1505@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/thanupriya1505
